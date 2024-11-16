@@ -1,0 +1,11 @@
+---
+
+### 4. **`.gitignore`**
+Ignore unnecessary files in your repository.
+
+```gitignore
+__pycache__/
+*.apk
+*.log
+app/
+*.spec
